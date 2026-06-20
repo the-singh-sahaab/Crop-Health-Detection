@@ -2,7 +2,7 @@
 
 ## Apple, Cucumber, Tomato, and Grape Crop Health Detection (YOLOv12)
 
-This repository contains the training workflow and validation results for a custom agricultural computer vision model designed to monitor crop health. The model is trained to detect diseases and assess the health status of leaves and crops across four main categories: **Apple, Cucumber, Tomato, and Grape**.
+This repository contains the training workflow and validation results for a custom agricultural computer vision model designed to monitor crop health. The model is trained to detect diseases and assess the health status of leaves and crops across four main categories: **Apple, Cucumber, Tomato, and Grape**. A research Paper about the same is underreview, will include it in future commits. 
 
 ---
 
@@ -103,4 +103,4 @@ An execution of the inference pipeline on a test image containing healthy apples
   * Preprocess: **3.0ms**
   * Inference: **103.7ms**
   * Postprocess: **3.1ms**
-  *(Recorded at an image resolution of $480 \times 640$)*
+  *(Recorded at an image resolution of 480 * 640)*
